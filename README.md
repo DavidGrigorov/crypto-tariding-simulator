@@ -17,6 +17,7 @@
 - **Backend**: Java 17, Spring Boot
 - **API**: Kraken WebSocket API v2
 
+##Screenshots
 
 ![Screenshot from 2025-04-09 00-56-05](https://github.com/user-attachments/assets/468849b7-0d3a-4173-922e-1a800c484749)
 ![Screenshot from 2025-04-09 00-57-02](https://github.com/user-attachments/assets/e20e18fa-73db-49c0-b7d3-9901e4fef7d9)
